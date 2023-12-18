@@ -1,3 +1,7 @@
 #!/bin/bash
 
-echo "Ramesh and Suresh are friends"
+PERSON1=Ramesh
+PERSON2=Suresh
+
+echo "$PERSON1: HI $PERSON2, HOW ARE YOU"
+echo "$PERSON2: HI $PERSON1, I AM FINE."
