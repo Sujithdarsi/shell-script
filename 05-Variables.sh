@@ -2,4 +2,4 @@
 
 Fruits=("Apple" "Banana" "orange")
 
-echo "First value is : $Fruits[0]"
+echo "First value is : ${Fruits[0]}"
